@@ -4,6 +4,8 @@
 // but are changed infrequently
 
 #pragma once
+//My client changes
+#define  MYVER 1.0
 
 #ifndef VC_EXTRALEAN
 #define VC_EXTRALEAN            // Exclude rarely-used stuff from Windows headers
