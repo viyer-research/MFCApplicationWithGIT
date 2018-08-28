@@ -5,7 +5,7 @@
 
 #pragma once
 //My client changes
-#define  MYVER 1.0.2
+#define  MYVER 1.0.3 //Server changes 1.0
 
 
 #ifndef VC_EXTRALEAN
